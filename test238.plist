@@ -13,6 +13,22 @@
 					<key>url</key>
 					<string>http://172.16.48.238:8900/hebao_202101290908_dev_UAT_9.7.7.ipa</string>
 				</dict>
+				<dict>
+					<key>kind</key>
+					<string>full-size-image</string>
+					<key>needs-shine</key>
+					<false/>
+					<key>http://172.16.48.238:8900/full-size-image.png</key>
+					<string></string>
+				</dict>
+				<dict>
+					<key>kind</key>
+					<string>display-image</string>
+					<key>needs-shine</key>
+					<true/>
+					<key>http://172.16.48.238:8900/display-image.png</key>
+					<string></string>
+				</dict>
 			</array>
 			<key>metadata</key>
 			<dict>
