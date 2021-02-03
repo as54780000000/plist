@@ -19,7 +19,7 @@
 					<key>needs-shine</key>
 					<false/>
 					<key>url</key>
-					<string>http://172.16.48.238:8900/full-size-image.png</string>
+					<string>http://172.16.48.238:8900/display-image.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
